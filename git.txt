@@ -1,0 +1,11 @@
+$ git config --global user.name "zhou"
+
+$ git config --global user.email "zhouwb1984@gmail.com"
+
+$ cd d:
+
+$ mkdir git-repo
+
+$ cd git-repo
+
+$ git init
