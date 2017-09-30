@@ -13,3 +13,5 @@ $ git init
 $ git add git.txt
 
 $ git status
+
+$
