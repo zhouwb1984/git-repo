@@ -11,3 +11,5 @@ $ cd git-repo
 $ git init
 
 $ git add git.txt
+
+$ git status
