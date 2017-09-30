@@ -9,3 +9,5 @@ $ mkdir git-repo
 $ cd git-repo
 
 $ git init
+
+$ git add git.txt
